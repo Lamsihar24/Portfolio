@@ -1,0 +1,24 @@
+
+																								
+Lamsihar Sirait																								
+																								
+		Test case Login and Traveloka Car Rental Search																				
+																								
+		No	Sub Module	Test Case	Nama Test Case	Test case description	Test Steps	Expected Result	Status															
+		1	Authentication: Login	Positive	Login Mobile Number with Valid Data	This test case used to check login with email on web	"Given User on Traveloka App onboarding
+    And User click Log in button in Traveloka Homepage 
+    And User will redirect to Traveloka login page
+    When User signing in to Traveloka app"	Then User on Traveloka homepage	Passed															
+		2	Traveloka Car Rental Search	Positive	User succesfullu search Traveloka Car Rental	This test case used to check when user search car rental on Traveloka App	" Given User on Traveloka App Homepage
+    And User click cars on homepage
+    And User click Car Rental on car homepage
+    And User clik close modal notification
+    And User click with driver
+    And User click select location
+    And User choose Jakarta region
+    When User click search button"	Then User will navigate to cars in Jakarta page	Passed															
+																								
+																								
+																					
+																								
+														
