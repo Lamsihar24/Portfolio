@@ -14,6 +14,9 @@ https://www.linkedin.com/in/lamsihar-sirait-3169511a1/
 ## Tech Skills
 
 ## Soft Skills
-- tes
+- Communication
+- Empathy
+- Patience
+- Assertiveness
 
 ## 
