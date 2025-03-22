@@ -14,17 +14,30 @@ Hi, my name is Lamsihar. Since the beginning of 2022 I have been studying and pr
 - [Cypress](https://www.cypress.io/)
 - [Jest.io](https://jestjs.io/)
 - [GIT](https://git-scm.com/)
-- [Postman](https://www.postman.com/)
+- [Postman](https://www.postman.com/) - API Testing
 - [Java Script](https://www.javascript.com/)
 - [Genymotion](https://www.genymotion.com/)
 - [Katalon](https://katalon.com/)
 - [Cucumber](https://cucumber.io/)
 - [Qase.Io](https://qase.io/) - Test case management
 - [TestRail](https://www.testrail.com/) - Test case management
-- 
+- [Jira](https://www.atlassian.com/software/jira) [Azure DevOps](https://azure.microsoft.com/) - Project Management
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-%C3%A5%C3%A7) [Gather](https://www.gather.town/) - Communication within the team
+  
 
 
 ## Tech Skills
+- Rest API Testing
+- Functional Testing
+- Manual testing
+- User Interface (UI Testing)
+- Automation testing using Selenium Webdriver
+- Automation testing using Cypress
+- Create test case management using Qase.io and TestRail
+- Create test case manual using sreedsheet
+- Create bug tickets at Jira
+- Create feedback documentation
+- Reporting bugs to developer
 
 ## Soft Skills
 - Communication
