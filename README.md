@@ -48,11 +48,11 @@ I have 3 years of experience as a QA. I am a big fan of software testing. I am i
 ## Projects 
 - WEB Automation Testing [SauceDemo](https://www.saucedemo.com/) [PORTFOLIO](https://github.com/Lamsihar24/saucedemo-web-automation)
 - WEB Automation Testing [Printerous](https://www.printerous.com/) using selenium webdriverIo [PORTFOLIO](https://github.com/Lamsihar24/PrinterousChallenge)
-- Manual testing [Printerous]() [PORTFOLIO]()
-- WEB Automation Testing [KompasID](https://www.kompas.id/) using selenium Webdriverio [PORTFOLIO]()
+- Manual testing [Printerous]() [PORTFOLIO](https://github.com/Lamsihar24/printerous-manual-testing)
+- WEB Automation Testing [KompasID](https://www.kompas.id/) using selenium Webdriverio [PORTFOLIO](https://github.com/Lamsihar24/kompas-web-automation)
 - Mobile Automation Testing [KompasID](https://www.kompas.id/) using selenium webriverio and Appium [PORTFOLIO]()
-- Manual Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets)
+- Manual Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) [PORTFOLIO]()
 - Web Automation Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) using Cypress [PORTFOLIO]()
-- Manual Testing web [Kame](https://kame.co.id/) [PORTFOLIO]()
+- Manual Testing web [Kame](https://kame.co.id/) [PORTFOLIO](https://github.com/Lamsihar24/kame-web)
   
-- 
+
