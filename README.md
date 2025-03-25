@@ -37,7 +37,7 @@ I have 3 years of experience as a QA. I am a big fan of software testing. I am i
 - Create bug tickets at Jira
 - Create feedback documentation
 - Reporting bugs to developer
-- Create test scenario using gherkin
+- Create test scenario using Gherkin
 
 ## Soft Skills
 - Communication
