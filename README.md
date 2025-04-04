@@ -25,7 +25,7 @@ I have 3 years of experience as a QA. I am a big fan of software testing. I am i
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-%C3%A5%C3%A7) [Gather](https://www.gather.town/) - Communication within the team
   
 
-## Tech Skills
+## Tech Skills 💻
 - Rest API Testing
 - Functional Testing
 - Manual testing
@@ -39,7 +39,7 @@ I have 3 years of experience as a QA. I am a big fan of software testing. I am i
 - Reporting bugs to developer
 - Create test scenario using Gherkin
 
-## Soft Skills
+## Soft Skills 
 - Communication
 - Empathy
 - Patience
