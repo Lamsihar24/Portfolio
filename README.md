@@ -5,7 +5,7 @@ Hi, my name is Lamsihar. Since the beginning of 2022 I have been studying and pr
 
 [My LinkedIn Profile](https://www.linkedin.com/in/lamsihar-sirait-3169511a1/) 
 
-## My Experience
+## My Experience  🏢
 I have 3 years of experience as a QA. I am a big fan of software testing. I am interested in the testing process in every software development, how the software can run smoothly without the slightest problem. I can do multiplatform automation (web and mobile) using selenium webdriverio and Cypress. I also learned how to do manual testing, concerning features that cannot be reached when using automatio testing. I create manual test cases and also test case management using tools such as qase.io or testRail. I learned a lot about testing and documenting the results of the tests that have been done in the form of documents or directly create bug tickets in Jira. I challenge myself to learn new things about software testing, because for me, one of the most proud moments is when I managed to find a bug that broke the system in the final stage of product testing. I want to improve my skills to be better in the future and create something that can be useful for people out there.
 
 ## Tools 🔧
