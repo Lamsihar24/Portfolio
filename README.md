@@ -54,5 +54,6 @@ I have 3 years of experience as a QA. I am a big fan of software testing. I am i
 - Manual Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) [PORTFOLIO]()
 - Web Automation Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) using Cypress [PORTFOLIO]()
 - Manual Testing web [Kame](https://kame.co.id/) [PORTFOLIO](https://github.com/Lamsihar24/kame-web)
+- Web Automation Testing [Higo.id](https://higo.id/) [portfolio]()
   
 
