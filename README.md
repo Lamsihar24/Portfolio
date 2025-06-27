@@ -6,7 +6,10 @@ Hi, my name is Lamsihar. Since the beginning of 2022 I have been studying and pr
 [My LinkedIn Profile](https://www.linkedin.com/in/lamsihar-sirait-3169511a1/) 
 
 ## My Experience  🏢
-I have 3 years of experience as a QA. I am a big fan of software testing. I am interested in the testing process in every software development, how the software can run smoothly without the slightest problem. I can do multiplatform automation (web and mobile) using selenium webdriverio and Cypress. I also learned how to do manual testing, concerning features that cannot be reached when using automatio testing. I create manual test cases and also test case management using tools such as qase.io or testRail. I learned a lot about testing and documenting the results of the tests that have been done in the form of documents or directly create bug tickets in Jira. I challenge myself to learn new things about software testing, because for me, one of the most proud moments is when I managed to find a bug that broke the system in the final stage of product testing. I want to improve my skills to be better in the future and create something that can be useful for people out there.
+I have 3 years of experience as a QA Engineer and am highly passionate about software testing. I find great interest in ensuring that software runs smoothly and reliably throughout the development lifecycle.
+I have hands-on experience with automation testing for both web and mobile platforms using tools such as Selenium, WebdriverIO, and Cypress. I also understand the importance of manual testing—especially for features that are difficult to reach or verify through automation—and I regularly write and execute manual test cases. For test case management, I’ve worked with tools like Qase.io and TestRail.
+In my previous projects, I was responsible for designing and executing test scenarios, documenting results, and reporting bugs directly in Jira. I take pride in being thorough, and one of my most rewarding moments was finding a critical bug during the final testing phase that prevented a major production issue.
+I'm constantly challenging myself to learn new tools and techniques in the QA field. My goal is to continuously improve and contribute to building high-quality products that make a difference for users.
 
 ## Tools 🔧
 - [Node Js](https://nodejs.org/en)
