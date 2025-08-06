@@ -61,5 +61,5 @@ I'm constantly challenging myself to learn new tools and techniques in the QA fi
 - API Automation Testing [PetStore](https://petstore.swagger.io/) using Postman [PORTFOLIO](https://github.com/Lamsihar24/Petstore-api-test)
 - Web Automation Testing [SauceDemo](https://www.saucedemo.com/) using cypress [PORTFOLIO](https://github.com/Lamsihar24/saucedeomo-automation-cypress)
 - Web Automation Testing [HerokuApp](https://katalon-demo-cura.herokuapp.com/) using katalon [PORTFOLIO](https://github.com/Lamsihar24/herokuapp-katalon-automation-test)
+- Web Automation Testing [SauceDemo](https://www.saucedemo.com/) using Playwright [PORTFOLIO](https://github.com/Lamsihar24/saucedeomo-automation-playwright)
   
-
