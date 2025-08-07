@@ -49,17 +49,17 @@ I'm constantly challenging myself to learn new tools and techniques in the QA fi
 - Assertiveness
 
 ## Projects 
-- WEB Automation Testing [SauceDemo](https://www.saucedemo.com/) [PORTFOLIO](https://github.com/Lamsihar24/saucedemo-web-automation)
-- WEB Automation Testing [Printerous](https://www.printerous.com/) using selenium webdriverIo [PORTFOLIO](https://github.com/Lamsihar24/PrinterousChallenge)
-- Manual testing [Printerous]() [PORTFOLIO](https://github.com/Lamsihar24/printerous-manual-testing)
-- WEB Automation Testing [KompasID](https://www.kompas.id/) using selenium Webdriverio [PORTFOLIO](https://github.com/Lamsihar24/kompas-web-automation)
-- Mobile Automation Testing [KompasID](https://www.kompas.id/) using selenium webriverio and Appium [PORTFOLIO]()
-- Manual Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) [PORTFOLIO]()
-- Web Automation Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) using Cypress [PORTFOLIO]()
-- Manual Testing web [Kame](https://kame.co.id/) [PORTFOLIO](https://github.com/Lamsihar24/kame-web)
+- WEB Automation Testing [Printerous](https://www.printerous.com/) using selenium webdriverIo 
+- Manual testing [Printerous]
+- WEB Automation Testing [KompasID](https://www.kompas.id/) using selenium Webdriverio
+- Mobile Automation Testing [KompasID](https://www.kompas.id/) using selenium webriverio and Appium 
+- Manual Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets)
+- Web Automation Testing [Horego](https://accounts.horego.com/login?redirect_uri=https%3A%2F%2Fbiz.horego.com%2Foutlets) using Cypress 
+- Manual Testing web [Kame](https://kame.co.id/)
 - Web Automation Testing [Higo.id](https://higo.id/) using cypress [PORTFOLIO](https://github.com/Lamsihar24/Higo-Automation-Test)
 - API Automation Testing [PetStore](https://petstore.swagger.io/) using Postman [PORTFOLIO](https://github.com/Lamsihar24/Petstore-api-test)
 - Web Automation Testing [SauceDemo](https://www.saucedemo.com/) using cypress [PORTFOLIO](https://github.com/Lamsihar24/saucedeomo-automation-cypress)
 - Web Automation Testing [HerokuApp](https://katalon-demo-cura.herokuapp.com/) using katalon [PORTFOLIO](https://github.com/Lamsihar24/herokuapp-katalon-automation-test)
 - Web Automation Testing [SauceDemo](https://www.saucedemo.com/) using Playwright [PORTFOLIO](https://github.com/Lamsihar24/saucedeomo-automation-playwright)
+- - WEB Automation Testing [SauceDemo](https://www.saucedemo.com/) [PORTFOLIO](https://github.com/Lamsihar24/saucedemo-web-automation)
   
