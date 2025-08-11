@@ -7,7 +7,7 @@ Hi, my name is Lamsihar. Since the beginning of 2022 I have been studying and pr
 
 ## My Experience  🏢
 I have 3 years of experience as a QA Engineer and am highly passionate about software testing. I find great interest in ensuring that software runs smoothly and reliably throughout the development lifecycle.
-I have hands-on experience with automation testing for both web and mobile platforms using tools such as Selenium, WebdriverIO, and Cypress. I also understand the importance of manual testing, especially for features that are difficult to reach or verify through automation and I regularly write and execute manual test cases. For test case management, I’ve worked with tools like Qase.io and TestRail.
+I have hands-on experience with automation testing for both web and mobile platforms using tools such as Selenium WebdriverIO, Playwright and Cypress. I also understand the importance of manual testing, especially for features that are difficult to reach or verify through automation and I regularly write and execute manual test cases. For test case management, I’ve worked with tools like Qase and TestRail.
 In my previous projects, I was responsible for designing and executing test scenarios, documenting results, and reporting bugs directly in Jira. I take pride in being thorough, and one of my most rewarding moments was finding a critical bug during the final testing phase that prevented a major production issue.
 I'm constantly challenging myself to learn new tools and techniques in the QA field. My goal is to continuously improve and contribute to building high-quality products that make a difference for users.
 
